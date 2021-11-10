@@ -1,4 +1,4 @@
-# 2021-11-10 git_collab
+# 2021-11-10 Git Collaboration
 
 #git clone
 
@@ -16,3 +16,7 @@
 - `git push origin <BRANCH>` : Push the local branch to remote
 - `git fetch --prune` : Update the meadata on the local computer
 - `git delete -b <BRANCH>` : To delete the local branch.
+
+# Rebase
+1. 'git switch <BRANCH>`
+2. `git rebase main` : this will rebase the current branch against main
