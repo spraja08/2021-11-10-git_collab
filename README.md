@@ -1,4 +1,4 @@
-# 2021-11-10-git_collab
+# 2021-11-10 git_collab
 
 #git clone
 
@@ -8,6 +8,8 @@
 	- `git branch -a` : Lists all the branches, local and remote
 - `git switch <BRANCH.` : Moves to the <BRANCH>
 - `git checkout <BRANCH>` : "older" way to switch
+
+#branches
 
 #Branching
 - `git checkout -b <BRANCH>` : create a new branch. Work on the branch. Push the branch and create the pull request.
