@@ -9,6 +9,8 @@
 - `git switch <BRANCH.` : Moves to the <BRANCH>
 - `git checkout <BRANCH>` : "older" way to switch
 
+#branches
+
 #Branching
 - `git checkout -b <BRANCH>` : create a new branch. Work on the branch. Push the branch and create the pull request.
 - `git push origin <BRANCH>` : Push the local branch to remote
